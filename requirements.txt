@@ -1,0 +1,18 @@
+# Core dependencies
+streamlit
+python-dotenv
+
+# PDF parsing
+PyMuPDF
+
+# Embeddings
+sentence-transformers
+
+# Vector store
+faiss-cpu
+
+# Gemini LLM API (Google Generative AI)
+google-generativeai
+
+# Optional utils
+numpy
