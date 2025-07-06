@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter and Python environments
+*.ipynb_checkpoints/
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Streamlit
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Mac/Linux hidden files
+.*.swp
+*.bak
+*~
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
+
+# Environment variables and API keys
+.env
+
+# FAISS index or model outputs
+*.index
+*.npy
+*.pkl
+*.pt
+*.h5
+
+# PDF uploads or temp files
+uploads/
+temp/
